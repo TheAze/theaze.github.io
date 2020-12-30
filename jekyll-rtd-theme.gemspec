@@ -1,5 +1,5 @@
 Gem::Specification.new do |spec|
-  spec.name          = "freeRTOS_cn_doc"
+  spec.name          = "FreeRTOS_cn_doc"
   spec.version       = "161204"
   spec.authors       = ["theaze"]
   spec.email         = ["theazegm@gmail.com"]
