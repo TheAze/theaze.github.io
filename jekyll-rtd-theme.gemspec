@@ -1,10 +1,10 @@
 Gem::Specification.new do |spec|
-  spec.name          = "freeRTOS中文文档"
+  spec.name          = "freeRTOS_cn_doc"
   spec.version       = "161204"
-  spec.authors       = ["阿泽"]
+  spec.authors       = ["theaze"]
   spec.email         = ["theazegm@gmail.com"]
 
-  spec.summary       = "本文档为个人翻译，如有错误，请及时指正。"
+  spec.summary       = "This document is a personal translation. If there is any mistake, please correct it."
   spec.license       = "MIT"
   spec.homepage      = "https://github.com/rundocs/jekyll-rtd-theme"
 
